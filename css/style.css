@@ -1,0 +1,14 @@
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  main {
+    flex: 1 0 auto;
+  }
+ /*Color al navbar*/
+  .nav-wrapper{
+ background-color: #7F1F6F !important;
+}
+  h5 { font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+  /*h1 { font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: white;}*/
